@@ -13,10 +13,10 @@ This repository contains a library of my notes on the first half of the content 
 - **Framework:** TensorFlow
   
 ### Course Sections Covered For "TensorFlow"
-- [1 of 4 Note about this section](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/1%20of%204%20Note%20about%20this%20section.pdf)
-- [2 of 4 Objects and Data Structures Assessment - Solutions](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/2%20of%204%20Objects%20and%20Data%20Structures%20Assessment%20-%20Solutions.pdf)
-- [3 of 4 Comparison Operators](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/3%20of%204%20Comparison%20Operators.pdf)
-- [4 of 4 Chained Comparison Operators](https://github.com/franpanteli/Python-Bootcamp-Module-3-Python-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%203%20Python%20Objects%20and%20Data%20Structures/4%20of%204%20Chained%20Comparison%20Operators.pdf)
+- [1 of 4 Note about this section](https://github.com/franpanteli/Python-Bootcamp-Module-22-Comparison-Operators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2022%20Comparison%20Operators%20With%20Python/1%20of%204%20Note%20about%20this%20section.pdf)
+- [2 of 4 Objects and Data Structures Assessment - Solutions](https://github.com/franpanteli/Python-Bootcamp-Module-22-Comparison-Operators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2022%20Comparison%20Operators%20With%20Python/2%20of%204%20Objects%20and%20Data%20Structures%20Assessment%20-%20Solutions.pdf)
+- [3 of 4 Comparison Operators](https://github.com/franpanteli/Python-Bootcamp-Module-22-Comparison-Operators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2022%20Comparison%20Operators%20With%20Python/3%20of%204%20Comparison%20Operators.pdf)
+- [4 of 4 Chained Comparison Operators](https://github.com/franpanteli/Python-Bootcamp-Module-22-Comparison-Operators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2022%20Comparison%20Operators%20With%20Python/4%20of%204%20Chained%20Comparison%20Operators.pdf)
 
 ### To Clone This Repository
 ```
