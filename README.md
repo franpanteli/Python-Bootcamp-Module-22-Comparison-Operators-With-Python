@@ -27,4 +27,6 @@ This repository is organised into the following sections:
    slides from this module are [here](https://github.com/franpanteli/Python-Bootcamp-Module-22-Comparison-Operators-With-Python/blob/main/Python%20Comparison%20Operators%20Slides.pdf).
 
 ### To Clone This Repository
+```
 git clone https://github.com/franpanteli/Python-Bootcamp-Module-22-Comparison-Operators-With-Python.git
+```
